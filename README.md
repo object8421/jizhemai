@@ -7,7 +7,7 @@
 
 发起人所在城市：深圳
 
-团队背景：
+团队：
 @ivanlau
 @rayxiehui
 @Langp618
