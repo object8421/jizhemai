@@ -1,3 +1,4 @@
+@echo off
 git add .
-git commit -am"update"
+if "%~1"=="" (git commit -am"update") else git commit -am"%1"
 git push
